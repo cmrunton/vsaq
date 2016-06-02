@@ -1,2 +1,7 @@
 # Files generated during the build process
 build/
+third_party/closure-templates-compiler/COPYING
+third_party/closure-templates-compiler/README
+third_party/closure-templates-compiler/SoyToJsSrcCompiler.jar
+third_party/closure-templates-compiler/soyutils.js
+third_party/closure-templates-compiler/soyutils_usegoog.js
